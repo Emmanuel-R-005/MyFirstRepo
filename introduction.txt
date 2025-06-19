@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+I’m a tech enthusiast and aspiring software engineer driven by the challenge of building systems that solve real-world problems. My journey began with a curiosity for how things work — and grew into a passion for creating software that can transform communities and improve lives.
+
+I'm especially interested in backend development and cloud integration, and I'm always eager to learn new technologies, contribute to open-source, and collaborate on meaningful projects.
